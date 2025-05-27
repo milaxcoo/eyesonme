@@ -14,3 +14,4 @@ runs/
 *.tmp
 
 yolov5/
+bdd100k_seg/
